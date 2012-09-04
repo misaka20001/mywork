@@ -1,0 +1,236 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">lzw.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">lzw</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">4</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CLASSPATH=.:.:$CLASSPATH:$JAVA_HOME/lib:$JAVA_HOME/jre/lib:/opt/jdk1.6.0_26/lib:/opt/jdk1.6.0_26/jre/lib</value>
+    <value type="QString">CLUTTER_VBLANK=none</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-FqEz0AvAq8,guid=8216e993c7824718b559c1ba5034ca67</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/une.default.path</value>
+    <value type="QString">DESKTOP_SESSION=une</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=une</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=en_US.utf8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-uyP7cL</value>
+    <value type="QString">GNOME_KEYRING_PID=1624</value>
+    <value type="QString">GTK_IM_MODULE=xim</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">HOME=/home/shana</value>
+    <value type="QString">JAVA_HOME=/opt/jdk1.6.0_26</value>
+    <value type="QString">JRE_HOME=/opt/jdk1.6.0_26/jre</value>
+    <value type="QString">JRE_Home=/opt/jdk1.6.0_26/jre</value>
+    <value type="QString">KDEDIRS=/usr/share/kubuntu-netbook-default-settings/:/usr/share/kubuntu-default-settings/kde4-profile/default/</value>
+    <value type="QString">LANG=en_US.utf8</value>
+    <value type="QString">LANGUAGE=en</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/qtcreator</value>
+    <value type="QString">LOGNAME=shana</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/une.mandatory.path</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-shana</value>
+    <value type="QString">PATH=/usr/bin:/opt/jdk1.6.0_26/bin:/opt/jdk1.6.0_26/jre/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/arm/4.3.2/bin/:/home/shana/bin</value>
+    <value type="QString">PWD=/home/shana</value>
+    <value type="QString">QTDIR=/usr/share/qt4</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/shana-laptop:@/tmp/.ICE-unix/1642,unix/shana-laptop:/tmp/.ICE-unix/1642</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=1682</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-uyP7cL/ssh</value>
+    <value type="QString">USER=shana</value>
+    <value type="QString">USERNAME=shana</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-shana-Gny3rk/database</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-une:/etc/xdg</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SESSION_COOKIE=42de64ccd32363742a1437524f7ba239-1345636966.672251-2127613771</value>
+    <value type="QString">XMODIFIERS=@im=fcitx</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/shana/qt creator/lzw/lzw.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/shana/qt creator/lzw</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CLASSPATH=.:.:$CLASSPATH:$JAVA_HOME/lib:$JAVA_HOME/jre/lib:/opt/jdk1.6.0_26/lib:/opt/jdk1.6.0_26/jre/lib</value>
+    <value type="QString">CLUTTER_VBLANK=none</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-FqEz0AvAq8,guid=8216e993c7824718b559c1ba5034ca67</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/une.default.path</value>
+    <value type="QString">DESKTOP_SESSION=une</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=une</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=en_US.utf8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-uyP7cL</value>
+    <value type="QString">GNOME_KEYRING_PID=1624</value>
+    <value type="QString">GTK_IM_MODULE=xim</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">HOME=/home/shana</value>
+    <value type="QString">JAVA_HOME=/opt/jdk1.6.0_26</value>
+    <value type="QString">JRE_HOME=/opt/jdk1.6.0_26/jre</value>
+    <value type="QString">JRE_Home=/opt/jdk1.6.0_26/jre</value>
+    <value type="QString">KDEDIRS=/usr/share/kubuntu-netbook-default-settings/:/usr/share/kubuntu-default-settings/kde4-profile/default/</value>
+    <value type="QString">LANG=en_US.utf8</value>
+    <value type="QString">LANGUAGE=en</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/qtcreator</value>
+    <value type="QString">LOGNAME=shana</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/une.mandatory.path</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-shana</value>
+    <value type="QString">PATH=/usr/bin:/opt/jdk1.6.0_26/bin:/opt/jdk1.6.0_26/jre/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/arm/4.3.2/bin/:/home/shana/bin</value>
+    <value type="QString">PWD=/home/shana</value>
+    <value type="QString">QTDIR=/usr/share/qt4</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/shana-laptop:@/tmp/.ICE-unix/1642,unix/shana-laptop:/tmp/.ICE-unix/1642</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=1682</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-uyP7cL/ssh</value>
+    <value type="QString">USER=shana</value>
+    <value type="QString">USERNAME=shana</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-shana-Gny3rk/database</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-une:/etc/xdg</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SESSION_COOKIE=42de64ccd32363742a1437524f7ba239-1345636966.672251-2127613771</value>
+    <value type="QString">XMODIFIERS=@im=fcitx</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/shana/qt creator/lzw</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
