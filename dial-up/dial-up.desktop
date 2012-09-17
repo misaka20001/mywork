@@ -1,9 +1,0 @@
-[Desktop Entry]
-Comment=connect net
-Name=dial-up
-Exec=/opt/dial-up/dial-up
-Encoding=UTF-8
-Terminal=false
-Type=Application
-Categories=Network;dial-up;
-Icon=/opt/dial-up/dial-up.png
